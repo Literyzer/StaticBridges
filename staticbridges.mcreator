@@ -1,14 +1,5 @@
 {
-  "mod_elements": [
-    {
-      "name": "Tesrblok",
-      "type": "block",
-      "sortid": 1,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "tesrblok"
-    }
-  ],
+  "mod_elements": [],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
