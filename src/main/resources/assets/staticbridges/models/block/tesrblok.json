@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "staticbridges:blocks/alien_2_cliart",
+    "up": "staticbridges:blocks/alien_2_cliart",
+    "north": "staticbridges:blocks/alien_2_cliart",
+    "east": "staticbridges:blocks/alien_2_cliart",
+    "south": "staticbridges:blocks/alien_2_cliart",
+    "west": "staticbridges:blocks/alien_2_cliart",
+    "particle": "staticbridges:blocks/alien_2_cliart"
+  }
+}
